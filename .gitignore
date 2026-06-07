@@ -1,0 +1,22 @@
+# Build
+build/
+cmake-build-*/
+
+# VSCode
+.vscode/
+
+# CLion
+.idea/
+
+# CubeMX
+*.launch
+
+# Debug files
+*.elf
+*.hex
+*.bin
+*.map
+
+# OS
+.DS_Store
+Thumbs.db
